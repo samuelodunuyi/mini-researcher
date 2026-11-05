@@ -1,0 +1,24 @@
+{
+  "outcome": "ACCEPT",
+  "rationale": "Every task has findings drawn from official sources (Ofgem, Energy Ombudsman, GOV.UK/HMRC), and the findings are consistent with each other. T1 (contract types, key terms, switching and exit rights) is well covered by S1 and S2. T2 (microbusiness definitions, broker rules, Energy Ombudsman access) is covered by S1, S3 and S4. T3 is only partly covered: the Ofgem blog gives the bill components and the GOV.UK page gives CCL rates, but VAT and energy-intensive industry relief are missing. T4 has Ofgem's pre-signing advice but little on meter types, green tariff verification or current government support. No more research is allowed, and the core of the topic is covered well enough for a useful referenced report if the gaps are stated as limitations. The evidence is not so weak that stopping is justified.",
+  "follow_up_tasks": [],
+  "caveats": [
+    "T1: No official source was read on how network, policy and levy charges are passed through or fixed, or on price-variation clauses; the report must state this gap.",
+    "T1: No typical exit-fee amounts, standing-charge figures or unit rates were found; the report must not give figures.",
+    "T1/T2/T4: S1 and S2 are undated Ofgem pages (F1-F3, F7, F11); present them as general Ofgem guidance.",
+    "T2: F5 rests on an April 2024 Ofgem press release (S3) announcing rules, and some dates were conditional on legislation; final implementation was not checked against the licence conditions.",
+    "T2: Renewal-notice timing and the broker commission rules for microbusinesses were not verified from licence conditions or Ofgem's TPI page.",
+    "T2: The small-business employee threshold is worded differently in S1 (11 to 50) and S4 (fewer than 50); state both and flag the difference (F4).",
+    "T2: Energy Ombudsman eligibility depends on its Terms of Reference, which were not read (F6).",
+    "T2: F7 duplicates F3; cite them as the same Ofgem S2 evidence, not independent confirmation.",
+    "T3: No official source was read on VAT for business electricity, so the report must not describe VAT rates or reliefs.",
+    "T3: No official source was read on energy-intensive industry relief (such as the British Industry Supercharger) or on CCA eligibility criteria; state this as a gap.",
+    "T3: The bill breakdown (wholesale about 40% of an electricity bill) and the April 2026 network cost rise rest only on an Ofgem blog post (S5, F8, F9), with no figures for network or policy costs.",
+    "T3: CCL rates (F10) come from a GOV.UK page last updated 27 Nov 2025; the 2026 and 2027 rates are as published then.",
+    "T4: Current status of the Energy Bills Discount Scheme or any successor was not established; the report must not claim any scheme is currently available.",
+    "T4: F13 (S7) is undated and partly out of date, so treat it only as a list of signposted advice bodies, not current scheme details.",
+    "T4: F14 (S8) only shows that Ofgem administers REGO; the REGO section was not read, so the report cannot explain what a REGO represents or how to verify a green tariff claim.",
+    "T4: No source was read on half-hourly versus non-half-hourly meters or on like-for-like quote comparison beyond Ofgem's general points; the Citizens Advice and Energy Saving Trust pages were not opened.",
+    "T4: F12 (S5) is blog advice, not formal guidance, and reflects the market as of 31 March 2026."
+  ]
+}

@@ -1,0 +1,261 @@
+{
+  "title": "What a UK Business Should Know Before Signing a New Electricity Contract",
+  "topic": "What a UK business should know before signing a new electricity contract",
+  "introduction": "This report sets out what a UK business should consider before signing a new electricity contract. It covers contract types, renewal and switching rules, brokers, bill components and taxes, supplier choice, preparation and timing, green tariffs, energy-efficiency obligations and government support. It draws on regulator and government guidance (Ofgem, GOV.UK, Citizens Advice, the Energy Ombudsman, NESO and Elexon), a law-firm summary, and a commercial broker blog. Where a point rests only on a commercial or secondary source, or where the sources leave a gap, the report says so.",
+  "sections": [
+    {
+      "heading": "1. Contract types and what they mean for price certainty",
+      "paragraphs": [
+        {
+          "text": "Ofgem describes the main UK business contract types as fixed-rate, variable-rate, deemed-rate, out-of-contract, rollover/evergreen and flexible (structured). They differ in price certainty and risk, and suppliers may not offer every type. [S1] A fixed-rate contract fixes unit rates and standing charges for the contract length, so the cost per kWh stays the same whatever happens to wholesale prices. [S1] With a variable-rate contract the price can rise or fall during the contract period, for example when wholesale prices change. [S1] Ofgem says flexible (structured) contracts suit large, high-usage businesses, because they let a company buy energy in smaller portions when market conditions are better rather than locking in one price. [S1]",
+          "source_ids": [
+            "S1"
+          ]
+        },
+        {
+          "text": "Rollover/evergreen contracts renew automatically at the end of a fixed term if no new arrangement is made and no switch happens. The new term is usually 12 months and may be on a higher rate. [S1] Deemed and out-of-contract rates are default states, not products a business chooses. A business is put on a deemed contract if it moves into premises without arranging a formal contract, or if its supplier goes out of business. [S1] Some suppliers move customers to out-of-contract rates when a fixed term ends without a new deal. Both deemed and out-of-contract rates are usually more expensive than negotiated fixed-term contracts. [S1][S2] Ofgem advises checking before signing what happens at contract end (auto-renewal, out-of-contract or deemed rates). [S1] Ofgem's page gives no figures on how much more these default rates cost. [S1]",
+          "source_ids": [
+            "S1",
+            "S2"
+          ]
+        },
+        {
+          "text": "The pros and cons of each type below come mainly from Green Light Consultancy Group (GLCG), a commercial broker/consultancy blog, and not from a regulator. GLCG says fixed contracts typically run for 1–3 years, protect against wholesale spikes and make budgeting simple. The buyer does not benefit if prices fall, is locked in, and may face substantial exit fees. [S2] It says variable contracts follow wholesale market moves, often adjusted monthly, so the buyer can benefit from falls but faces surges that make budgeting hard. [S2] It says flexible purchasing (pass-through) contracts buy energy in smaller blocks, which allows buyers to target market lows and makes costs more transparent. They need active management, carry higher risk and are not suitable for most SMEs. [S2] Neither Ofgem nor GLCG gives a precise regulatory definition of \"pass-through\" as distinct from \"flexible\". [S1][S2]",
+          "source_ids": [
+            "S1",
+            "S2"
+          ]
+        },
+        {
+          "text": "GLCG also warns that a \"fixed\" contract may not fix every part of the bill. Many fixed contracts let suppliers pass on unexpected increases in non-commodity costs, so a business should check for change-event or pass-through clauses. [S2]",
+          "source_ids": [
+            "S2"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "2. Renewing, switching and leaving a contract",
+      "paragraphs": [
+        {
+          "text": "There is no cooling-off period after a business agrees to a contract, according to both Ofgem and Citizens Advice. [S1][S3] Business contracts can be binding when agreed over the phone, so no signature is needed. Citizens Advice says most business suppliers offer no cooling-off period, and that a business should ask for the contract in writing. [S3] Citizens Advice also says a business that changes its mind when switching might have to pay a termination fee. [S3] A proposed 1–14 day cooling-off period was not implemented, according to a law-firm summary (CMS) of Ofgem's 2022 Microbusiness Strategic Review decision. [S18]",
+          "source_ids": [
+            "S1",
+            "S3",
+            "S18"
+          ]
+        },
+        {
+          "text": "When a business can switch depends on its contract type. Ofgem says most suppliers will not let a customer leave a fixed-rate contract early unless a termination clause has been agreed or an exit fee is paid. Fixed-rate contracts may include a \"switching window\", a set period opening a few months before the end, in which a fee-free switch is sometimes possible. [S16] Customers on variable-rate (including evergreen), out-of-contract or deemed-rate contracts can switch at any time. [S16] Citizens Advice says that once a fixed term has ended a microbusiness can switch at any time without a fee or notice. Switching before the end of a fixed term \"might\" mean an exit fee, so a business should check whether the saving outweighs it. [S3] Citizens Advice gives no exit-fee amounts, which are set by each contract. [S3]",
+          "source_ids": [
+            "S16",
+            "S3"
+          ]
+        },
+        {
+          "text": "Citizens Advice says a business switch normally completes within 5 working days, and it advises taking meter readings on switch day and sending them to both companies. [S3] Ofgem advises giving the new supplier annual consumption and meter details before signing. [S16] This timeline comes from Citizens Advice only: no Ofgem or Energy Ombudsman source read gives a non-domestic switching timeline. [S3][S16] Ofgem notes that the existing supplier may object to a switch, for example if the business owes it money, and advises contacting the supplier as soon as possible. Only debt is given as an example, and the full list of grounds for objection was not read. [S16]",
+          "source_ids": [
+            "S3",
+            "S16"
+          ]
+        },
+        {
+          "text": "For microbusinesses, suppliers must give clear contract information and renewal price information before the contract ends. [S1] Citizens Advice says suppliers should contact microbusinesses about 3 months before a fixed term ends, and that a business can complain if they do not. [S3] A contract may include a roll-over period of no more than 12 months. Without one, or once it has ended, the customer is on an out-of-contract tariff and can switch without a fee or notice. [S3] This guidance is framed for microbusinesses and for England, and Citizens Advice's page is undated. [S3]",
+          "source_ids": [
+            "S1",
+            "S3"
+          ]
+        },
+        {
+          "text": "Notice rules for microbusinesses have changed. Ofgem's 2015 factsheet reduced the maximum termination notice period from 90 to 30 days from 30 April 2015. [S17] That position has been superseded. A CMS summary of Ofgem's Microbusiness Strategic Review decision says suppliers have been prohibited since 1 October 2022 from requiring microbusinesses to give prior notice of termination, except on evergreen contracts. [S18] Ofgem's current guidance says the 30-day notice limit and the requirement to acknowledge a request to end within 5 working days apply to evergreen contracts only. [S1] The CMS page is a law-firm summary, not the Ofgem decision itself. The licence condition reference for the termination-notice change is not stated there and is unconfirmed. [S18]",
+          "source_ids": [
+            "S17",
+            "S18",
+            "S1"
+          ]
+        },
+        {
+          "text": "Protections vary by business size. Ofgem defines a microbusiness as having fewer than 10 employees and turnover or balance sheet of no more than £2 million, or using up to 100,000 kWh a year of electricity. [S1] Small and large businesses get different, weaker protections. [S1][S3] The Ofgem April 2024 press release states the test slightly differently, in euros (£1.716m on 22 March 2024) and with \"under\" rather than \"up to\" thresholds. [S4] A business should check the current licence definition to confirm whether it qualifies. [S1][S4]",
+          "source_ids": [
+            "S1",
+            "S3",
+            "S4"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "3. Brokers and other intermediaries",
+      "paragraphs": [
+        {
+          "text": "A business can arrange a contract itself or use a broker, consultant or price comparison service (third-party intermediaries, or TPIs). [S1] Brokers charge either an upfront fee or, more commonly, a commission paid by the chosen supplier. Comparison sites may cover only part of the market and may earn commission. [S1] GLCG says brokers can analyse consumption, explain contract structures, spot hidden charges and negotiate with several suppliers. [S2] Ofgem says to check whether broker fees or commissions are included in the price. [S1]",
+          "source_ids": [
+            "S1",
+            "S2"
+          ]
+        },
+        {
+          "text": "Ofgem's TPI guidance (October 2022) says Ofgem does not regulate or license energy brokers but has set out voluntary principles. These are honesty, respect, accuracy (including saying how much of the market was searched), transparency, customer focus and professionalism. [S9] Ofgem advises asking a TPI which suppliers it will approach, how many offers it will give, what services it provides during the contract and how it is paid. [S9] Because commission is based on consumption, a customer who uses more than estimated pays commission on actual consumption, so estimates should be as accurate as possible. [S9] TPIs must also comply with the Business Protection from Misleading Marketing Regulations. [S9]",
+          "source_ids": [
+            "S9"
+          ]
+        },
+        {
+          "text": "Broker-fee disclosure rules have widened. The October 2022 guidance said broker costs included in the supplier bill must be shown in the Principal Terms, and that directly paid broker fees need not be declared there. [S9] Ofgem's 5 April 2024 press release announced a wider requirement. Broker fees must be clearly displayed in a contract's principal terms for all non-domestic customers, not only microbusinesses, for contracts signed on and from 1 October 2024, and suppliers must make the information available on request. [S4] The press release also said that from December 2024 suppliers may only work with TPIs that are redress-scheme members when securing Small Business contracts. Ofgem described some of these measures as \"expected\", so they are reported here as announced rather than confirmed in force. [S4] The 2024 announcement supersedes the narrower microbusiness-only position described in the earlier guidance. [S4][S9]",
+          "source_ids": [
+            "S4",
+            "S9"
+          ]
+        },
+        {
+          "text": "Citizens Advice says microbusinesses working with a supplier-paid broker must be told how much the supplier pays the broker before the contract is agreed, and that terms and conditions, including any broker fee, should arrive within 10 days of agreeing. [S3] A CMS summary says that since 1 October 2022 brokerage costs must be shown through the Principal Terms as a total cost in pounds and pence over the contract duration. It also says suppliers have had to work only with brokers in a qualifying alternative dispute resolution (ADR) scheme since 1 December 2022. The Principal Terms obligation is cited there as supply licence condition 7A.4. These references come from a law-firm summary, not licence text, and were not checked against the licence. [S18]",
+          "source_ids": [
+            "S3",
+            "S18"
+          ]
+        },
+        {
+          "text": "Brokers paid by the supplier must be registered with a redress scheme, namely the Energy Ombudsman or the Utilities Intermediaries Association (UIA). [S3][S8] One Citizens Advice page also lists the Dispute Resolution Ombudsman (DRO), while another names only the Energy Ombudsman and UIA, so the list of schemes may vary. [S3][S8] Citizens Advice warns that if a broker is not registered, the business will not be able to complain. [S8] Ofgem points to the Energy Ombudsman broker register and the UIA accredited list, and says that because there is no cooling-off period it is important to use a trustworthy broker. [S1][S9] The UIA's code-of-practice details were not read. [S8]",
+          "source_ids": [
+            "S1",
+            "S3",
+            "S8",
+            "S9"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "4. Understanding what is in the bill",
+      "paragraphs": [
+        {
+          "text": "GLCG splits a business bill into commodity costs (the energy itself, which fluctuates with the wholesale market) and non-commodity costs (network maintenance fees, government levies and supplier operating costs). It says non-commodity costs can make up over half the total bill. [S2] It lists line items including transmission and distribution charges (TNUoS and DUoS), balancing services (BSUoS), the Climate Change Levy (CCL), and Renewables Obligation (RO) and Feed-in Tariff (FiT) levies. [S2] GLCG says that in a fully fixed contract the supplier estimates the non-commodity costs and bundles them into the rate, while in a pass-through contract they are charged at actual cost, which gives transparency but less budget certainty. [S2] This breakdown, including the over-half claim and the fixed versus pass-through treatment, rests on GLCG, a commercial source. The official pages read do not say how suppliers pass these charges through in each contract type, so those claims are not independently confirmed. [S2][S13][S14][S15]",
+          "source_ids": [
+            "S2",
+            "S13",
+            "S14",
+            "S15"
+          ]
+        },
+        {
+          "text": "NESO sets TNUoS (transmission network charges). Its May 2026 webinar slides give initial forecasts for 2027/28: total TNUoS revenue of £9.11bn, up £1.50bn on the 2026/27 final tariffs. They forecast demand revenue of £7.73bn, up £1.35bn, and a demand residual tariff 21% higher than in 2026/27. [S13] The average half-hourly demand tariff is forecast at £3.48/kW (up £0.69/kW) and the average non-half-hourly tariff at 0.48p/kWh (up 0.10p/kWh). [S13] These are initial forecasts, not final tariffs. Final 2027/28 tariffs are due by 31 January 2027, to take effect from 1 April 2027, and the forecast excludes a substantial methodology reform that NESO expects. [S13] The slides' £96.85 figure for TNUoS on an average bill refers to an average consumer bill, not a business bill. [S13]",
+          "source_ids": [
+            "S13"
+          ]
+        },
+        {
+          "text": "NESO's BSUoS page says the charge recovers the cost of day-to-day operation of the transmission system, including balancing. Since 1 April 2023 it has been recovered solely from final demand (including suppliers) through a fixed tariff set in advance. [S14] The page does not give the tariff level or say how suppliers pass it into business contracts. [S14] On the Renewables Obligation, Ofgem says it places an annual obligation on electricity suppliers to present certificates per MWh supplied or pay into a buy-out fund. It is closed to new generating capacity but still operates. [S15] The Ofgem page does not say how suppliers recover this cost from customers. [S15] No official page was read on DUoS, the Feed-in Tariff, the CfD levy or the capacity market, so these items rest on GLCG alone. [S2][S15]",
+          "source_ids": [
+            "S14",
+            "S15",
+            "S2"
+          ]
+        },
+        {
+          "text": "The Climate Change Levy applies to business (non-domestic) electricity and gas, and suppliers are responsible for charging the correct amount. [S5] HMRC's published electricity main rate is £0.00775 per kWh from 1 April 2023 to 2025, £0.00801 from 1 April 2026 and £0.00827 from 1 April 2027. Climate Change Agreement holders get a 92% discount on electricity. [S5] The rate table was last updated on 27 November 2025, so a business should check GOV.UK for later changes. [S5] The page does not say how contracts treat CCL. [S5]",
+          "source_ids": [
+            "S5"
+          ]
+        },
+        {
+          "text": "On VAT, HMRC's notice says the standing charge is regarded as part of the charge for the supply of electricity, even though it is shown separately. Where the supply is for qualifying use, the whole bill including the standing charge takes the reduced rate. Charges for transmission or distribution lines, transformers or meters made without any supply of electricity are standard-rated. [S6] The extract read did not show the percentage rates or the definition of qualifying use, so no claim is made about them. [S6] The notice also mentions a temporary zero rate for domestic supplies and \"other qualifying use\". It cannot be confirmed from this source that it covers ordinary business electricity, so businesses should not assume it applies. [S6]",
+          "source_ids": [
+            "S6"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "5. Choosing the supplier",
+      "paragraphs": [
+        {
+          "text": "Ofgem says there is no obligation on a supplier to supply a business, and that a supplier may choose customers by factors such as size of supply or credit rating. It also notes that very few business prices are published, so quotes must be requested. [S9] Citizens Advice advises comparing as many suppliers as possible and asking for the full terms and conditions. [S3] If a supplier goes out of business, Ofgem says customers are put on deemed rates. [S1] Citizens Advice advises not switching tariff or supplier until the account has moved to the new supplier, because switching earlier can make it harder to recover money owed. [S3] No source read covers supplier financial-resilience checks, so this report offers no guidance on them. [S1][S3][S9]",
+          "source_ids": [
+            "S1",
+            "S3",
+            "S9"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "6. Timing and data preparation before signing",
+      "paragraphs": [
+        {
+          "text": "A business should know its contract end date and notice position, and have accurate consumption information ready. Citizens Advice says to check contract terms, end date, standing charges, unit costs and annual usage when preparing to switch. [S3] GLCG recommends starting to look for a new deal three to six months before expiry and using smart meter data to understand usage patterns. This is a commercial broker's recommendation, not regulator guidance. [S2] Acting early helps a business avoid defaulting to expensive out-of-contract or deemed rates. [S1][S2] Ofgem notes that accurate consumption estimates matter because broker commission is based on consumption. [S9]",
+          "source_ids": [
+            "S1",
+            "S2",
+            "S3",
+            "S9"
+          ]
+        },
+        {
+          "text": "Settlement is also changing. Elexon says suppliers are migrating meters to market-wide half-hourly settlement (MHHS), where settlement uses actual consumption for each half-hour instead of estimates or monthly readings. Migration began on 22 October 2025, with full transition due by 7 May 2027. [S11] Elexon says the granular data lets suppliers develop products that reward flexible use. [S11] The page is industry-facing. It does not say what customers should do, how MHHS changes contract prices, or how to prepare half-hourly meters or contract capacity. [S11]",
+          "source_ids": [
+            "S11"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "7. Checking green tariff claims",
+      "paragraphs": [
+        {
+          "text": "Ofgem explains that the Renewable Energy Guarantees of Origin (REGO) scheme gives transparency about how much of the electricity suppliers source is renewable. One REGO is issued per MWh of eligible renewable output. [S10] Its main use is Fuel Mix Disclosure, which requires licensed GB electricity suppliers to tell customers the mix of fuels used to generate the electricity they supply. [S10] The Ofgem page does not tell businesses how to verify a specific green tariff, such as whether it is REGO-backed. No ASA or CMA guidance on green claims was read. [S10]",
+          "source_ids": [
+            "S10"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "8. Energy-efficiency obligations and government support",
+      "paragraphs": [
+        {
+          "text": "The Energy Savings Opportunity Scheme (ESOS) is a separate compliance obligation, not part of choosing a contract, though audits use measured consumption data. [S19][S12] For current requirements, phase 4 applies and supersedes the phase 3 guidance. An organisation qualifies for phase 4 if, on 31 December 2026, it meets the definition of a large undertaking. The notification of compliance deadline is 5 December 2027. [S19] Phase 4 no longer allows DECs and Green Deal assessments as alternative compliance routes, requires progress against action-plan commitments to be reported, and requires audits to include site visits. [S19] Phase 3 participants must still submit a progress update by 5 December 2026. [S19][S12] The \"large undertaking\" thresholds were not read (they are in the separate phase 4 compliance guidance), so businesses should check them before relying on this. [S19]",
+          "source_ids": [
+            "S19",
+            "S12"
+          ]
+        },
+        {
+          "text": "The only current government energy-cost support found is the British Industrial Competitiveness Scheme (BICS), a targeted scheme for eligible manufacturers. A GOV.UK press release of 1 October 2026 says applications should be made by 30 November for support from April 2027. Eligible businesses would be exempt from the indirect costs of the Renewables Obligation, Feed-in Tariffs and Capacity Market. [S20] The release says BICS will cut manufacturers' electricity costs by up to 25 percent, depending on the electricity price each company pays. [S20] It is not a general scheme for all business electricity buyers, and its detailed eligibility criteria were not read. [S20] No general successor to the Energy Bill Discount Scheme was found. This is a gap in the research and does not show that none exists. The Energy Bill Relief Scheme mentioned in the VAT notice covered energy use from 1 October 2022 to 31 March 2023 and is historical. [S6][S20]",
+          "source_ids": [
+            "S20",
+            "S6"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "9. If something goes wrong: complaints and disputes",
+      "paragraphs": [
+        {
+          "text": "A business should complain to the supplier or broker first. Citizens Advice says the Energy Ombudsman can help with supplier complaints after 8 weeks or once a deadlock letter has been issued. A complaint must be made within 1 year of a deadlock letter. [S8] The Energy Ombudsman says that from 19 December 2024 small businesses can get free dispute resolution for disputes with a broker. Eligibility is fewer than 50 employees and turnover of at most £6.5 million or a balance sheet total of £5.0 million, or electricity use of no more than 200,000 kWh a year, or gas use of no more than 500,000 kWh a year. [S7] The page does not clarify whether more than one criterion must be met, and larger businesses may not qualify. [S7] The Ombudsman can award practical action, an apology, a payment of up to £10,000 and recommendations, and it cannot fine. It only handles brokers that have joined its scheme. [S7] Ofgem's April 2024 release adds that Small Businesses can resolve broker disputes through schemes such as the Energy Ombudsman and UIA, and that suppliers must signpost microbusinesses to Citizens Advice. [S4] It also says the Standards of Conduct were to apply to all non-domestic customers from 1 July 2024. [S4]",
+          "source_ids": [
+            "S7",
+            "S8",
+            "S4"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "10. Dates and limits of the evidence",
+      "paragraphs": [
+        {
+          "text": "Several of the Ofgem and Citizens Advice pages used in this report show no publication date, so they should be treated as reflecting the position when they were read, on the 4 November 2026 access date. Ofgem's TPI guidance dates from October 2022. [S1][S3][S8][S9][S10] Much of the licence-level detail comes from a law-firm summary rather than licence text. Rules and thresholds may change, so a business should confirm the current position with Ofgem or its adviser before signing. [S18] A cap on back-billing was not confirmed from any page read and is not stated here as fact. [S1][S3]",
+          "source_ids": [
+            "S1",
+            "S3",
+            "S8",
+            "S9",
+            "S10",
+            "S18"
+          ]
+        }
+      ]
+    }
+  ]
+}

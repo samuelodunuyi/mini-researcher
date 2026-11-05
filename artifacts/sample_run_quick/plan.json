@@ -1,0 +1,58 @@
+{
+  "topic": "What a UK business should know before signing a new electricity contract",
+  "tasks": [
+    {
+      "id": "T1",
+      "question": "What contract types and pricing structures are available to UK business electricity customers (fixed, variable, deemed, out-of-contract, flexible/pass-through), and what are the main terms that affect cost and risk (contract length, unit rates, standing charges, termination fees, auto-rollover, price change clauses)?",
+      "evidence_required": "Official descriptions of the main business electricity contract types, typical terms and conditions to check (term length, rollover and notice periods, early termination charges, variation clauses), and how non-commodity charges may be passed through or fixed.",
+      "min_sources": 2,
+      "preferred_source_types": [
+        "Ofgem business customer pages",
+        "Citizens Advice business guidance",
+        "Energy Ombudsman",
+        "GOV.UK"
+      ],
+      "addresses": null
+    },
+    {
+      "id": "T2",
+      "question": "What protections and rules apply to UK business electricity customers when dealing with suppliers and energy brokers (Ofgem microbusiness rules, broker commission transparency, switching and renewal rules, complaints and dispute resolution)?",
+      "evidence_required": "Current regulatory requirements on suppliers and third-party intermediaries (including microbusiness definition, information on renewal and end-of-contract notices, commission disclosure, switching rights, and access to the Energy Ombudsman), with dates or effective dates where stated.",
+      "min_sources": 2,
+      "preferred_source_types": [
+        "Ofgem",
+        "Energy Ombudsman",
+        "Citizens Advice",
+        "GOV.UK"
+      ],
+      "addresses": null
+    },
+    {
+      "id": "T3",
+      "question": "Which cost components make up a UK business electricity bill (wholesale energy, network and policy charges, VAT, Climate Change Levy), and which exemptions, reductions or reliefs might apply (e.g. reduced VAT, CCL exemptions, energy-intensive industry relief)?",
+      "evidence_required": "Official explanation of bill components and who sets them, plus current eligibility criteria and rates for VAT, CCL and relevant relief schemes, as well as any recent or upcoming changes to charges that could affect contract pricing.",
+      "min_sources": 2,
+      "preferred_source_types": [
+        "Ofgem",
+        "GOV.UK",
+        "HMRC",
+        "Department for Energy Security and Net Zero"
+      ],
+      "addresses": null
+    },
+    {
+      "id": "T4",
+      "question": "What practical steps should a business take before signing, including how to compare quotes, assess its own consumption and meter type, check green or renewable claims, and understand the support available such as the Energy Bills Discount Scheme successor arrangements and efficiency advice?",
+      "evidence_required": "Official guidance on preparing to switch or renew (checking meter details and usage, comparing like-for-like quotes, verifying renewable tariff claims such as REGO backing), and the current status of any government support schemes or energy efficiency resources for businesses.",
+      "min_sources": 1,
+      "preferred_source_types": [
+        "Ofgem",
+        "GOV.UK",
+        "Citizens Advice",
+        "Energy Saving Trust or Carbon Trust",
+        "Department for Energy Security and Net Zero"
+      ],
+      "addresses": null
+    }
+  ]
+}

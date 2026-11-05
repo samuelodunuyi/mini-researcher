@@ -1,0 +1,55 @@
+{
+  "outcome": "RESEARCH_MORE",
+  "rationale": "Coverage exists for all five tasks, and several findings rest on good official sources (Ofgem, Citizens Advice, Energy Ombudsman, HMRC, Elexon, Environment Agency). Three important gaps remain that more research can plausibly fill. T3: the bill-component breakdown (network charges, policy levies) rests only on a commercial broker blog (GLCG), with no Ofgem, NESO or network-operator source. T2: the switching timeline for non-domestic customers, objection rights, back-billing limits and licence-condition references were seen only in snippets and are not cited. T5: there is no evidence on current government business energy support, and the ESOS evidence covers only phase 3 while phase 4 is the current requirement. Smaller gaps in T4 (supplier financial resilience, UIA code details) and T1 (the deemed-rate premium) can be stated as limitations rather than researched further.",
+  "follow_up_tasks": [
+    {
+      "id": "T6",
+      "question": "What do official sources say about the structure of non-commodity costs on a UK non-domestic electricity bill (network charges such as TNUoS, DUoS and BSUoS, policy levies such as the Renewables Obligation, Feed-in Tariff, CfD and capacity market) and any recent changes to them?",
+      "evidence_required": "An Ofgem, NESO or network-operator page or decision that describes these charge categories for business customers, says who sets them and how they are passed through to suppliers and customers, and notes recent or upcoming changes. Use it to corroborate or correct the GLCG breakdown.",
+      "min_sources": 2,
+      "preferred_source_types": [
+        "Ofgem",
+        "National Energy System Operator (NESO)",
+        "Distribution network operator or Energy Networks Association pages",
+        "GOV.UK / DESNZ"
+      ],
+      "addresses": "T3"
+    },
+    {
+      "id": "T7",
+      "question": "What do Ofgem or Energy Ombudsman pages say about the non-domestic switching process and customer rights: the switching timeline, supplier objection rights, back-billing limits, and the relevant supplier licence conditions on microbusiness contract terms and termination?",
+      "evidence_required": "Current Ofgem or Energy Ombudsman guidance, or a decision document, covering the switching timeline for business customers, the circumstances in which a supplier may object to a switch, the back-billing cap, and any changes to termination-notice requirements for fixed-term contracts, with licence condition references if the page gives them.",
+      "min_sources": 2,
+      "preferred_source_types": [
+        "Ofgem guidance and decisions",
+        "Energy Ombudsman supplier pages",
+        "Citizens Advice"
+      ],
+      "addresses": "T2"
+    },
+    {
+      "id": "T8",
+      "question": "What government support or compliance requirements currently affect a UK business buying electricity: any successor to the Energy Bill Discount Scheme or other current business energy support, and the current ESOS phase 4 qualification and compliance requirements?",
+      "evidence_required": "GOV.UK or DESNZ pages stating what business energy support is currently available, or confirming that none is, and the eligibility for it. Also the Environment Agency or GOV.UK ESOS phase 4 guidance with the qualification date, thresholds and deadlines.",
+      "min_sources": 2,
+      "preferred_source_types": [
+        "GOV.UK / DESNZ",
+        "Environment Agency (ESOS)",
+        "HM Treasury"
+      ],
+      "addresses": "T5"
+    }
+  ],
+  "caveats": [
+    "T3: the split between commodity and non-commodity costs and the fixed versus pass-through treatment rest on the commercial GLCG blog (F11), unless the follow-up finds an official source.",
+    "T1: the pros and cons of fixed, variable and flexible contracts, and the 3–6 month early-renewal advice, come from commercial broker blog GLCG (F2, F3, F21).",
+    "T1/T2: Ofgem and Citizens Advice pages show no publication date (F1, F5, F6, F7, F8). Say the guidance is as read on the access date.",
+    "T2/T4: the 5-working-day switch time and 10-day terms delivery come from Citizens Advice consumer guidance, not licence text (F8, F9).",
+    "T2: Ofgem's April 2024 press release says some broker and redress measures were 'expected' (F9). Treat as announced rather than confirmed in force.",
+    "T2: the microbusiness definition differs slightly between Ofgem pages (F10), and no licence condition numbers are confirmed.",
+    "T4: the Ofgem TPI guidance dates from October 2022 (F14). The 2024 disclosure expansion supersedes the earlier limited disclosure scope.",
+    "T4: no evidence on supplier financial-resilience checks or UIA code-of-practice details (F17, F15). State this as a limitation.",
+    "T3: the CCL rate table was last updated 27 Nov 2025 (F12). The VAT zero-rate announcement may not cover ordinary business supplies, and no standard rate was read (F13).",
+    "T5: MHHS evidence is industry-facing and does not explain customer actions or contract capacity (F18). The REGO page gives no guidance on verifying green tariffs and no ASA or CMA material was read (F19)."
+  ]
+}

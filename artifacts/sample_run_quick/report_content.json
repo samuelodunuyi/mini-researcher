@@ -1,0 +1,271 @@
+{
+  "title": "What a UK Business Should Know Before Signing a New Electricity Contract",
+  "topic": "What a UK business should know before signing a new electricity contract",
+  "introduction": "This report summarises approved research findings on choosing and signing a business electricity contract in the UK. It draws mainly on Ofgem guidance pages, an Ofgem press release and blog post, Energy Ombudsman information and HMRC rate guidance published on GOV.UK. It covers contract types, what to check before signing, switching and ending contracts, protections for smaller businesses, brokers, price components and market conditions, and sources of further advice. Gaps in the evidence are stated in the relevant sections and summarised at the end.",
+  "sections": [
+    {
+      "heading": "Main contract types",
+      "paragraphs": [
+        {
+          "text": "Ofgem describes six main types of UK business energy contract: fixed-rate, variable-rate, deemed-rate, out-of-contract rates, rollover/evergreen, and flexible (structured) contracts. Suppliers may not offer all of them. [S1]",
+          "source_ids": [
+            "S1"
+          ]
+        },
+        {
+          "text": "Fixed-rate contracts fix the unit rates and standing charges for the length of the contract. With variable-rate contracts, prices can rise or fall during the contract period, for example as wholesale prices change. [S1]",
+          "source_ids": [
+            "S1"
+          ]
+        },
+        {
+          "text": "Deemed contracts start automatically when you move into premises without arranging a formal contract, or if your supplier goes out of business. They are usually higher than negotiated contract rates. Out-of-contract rates apply when a fixed term ends without a new deal and are usually more expensive than fixed-term contracts. Rollover/evergreen contracts renew automatically, usually for 12 months, and possibly at a higher rate. [S1]",
+          "source_ids": [
+            "S1"
+          ]
+        },
+        {
+          "text": "Flexible (structured) contracts are described by Ofgem as suitable for large, high-use businesses. They let a business buy energy in smaller portions when market conditions are better, instead of locking in one price. [S1]",
+          "source_ids": [
+            "S1"
+          ]
+        },
+        {
+          "text": "Limitations: this Ofgem page is undated, so it is best treated as general Ofgem guidance. It gives no typical unit rates or standing charges, so none are given here. It does not explain how non-commodity charges (network, policy and levy charges) are passed through or fixed in a contract, and it does not cover price-variation clauses. No official source on these points was read, so businesses should check this in the contract itself. [S1]",
+          "source_ids": [
+            "S1"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "What to check before agreeing a contract",
+      "paragraphs": [
+        {
+          "text": "Ofgem says a business should know the contract type, the term length, any fees (including those in special clauses), the protections it has, any broker fees or commission included in the price, and what happens at the end of the contract. End-of-contract outcomes include auto-renewal or a move to out-of-contract or deemed rates. [S1]",
+          "source_ids": [
+            "S1"
+          ]
+        },
+        {
+          "text": "Contracts can be arranged directly or through a broker, consultant or price comparison service. If using a comparison site, check whether it covers the whole market or a selection of suppliers, and whether it receives commission. Ofgem notes there is no cooling-off period after agreeing a contract. [S1]",
+          "source_ids": [
+            "S1"
+          ]
+        },
+        {
+          "text": "Before switching, the business should read its existing contract for when it can switch, how much notice it must give and whether an exit fee applies. Switching needs the business's annual consumption and meter details. A supplier may object to a switch, for example if the business owes it money. [S2]",
+          "source_ids": [
+            "S2"
+          ]
+        },
+        {
+          "text": "Limitations: both Ofgem pages are undated and are presented here as general Ofgem guidance. They do not explain in detail how to compare quotes like-for-like beyond checking term, fees, commission and the end-of-contract position. No source on half-hourly versus non-half-hourly meters was read. The Citizens Advice and Energy Saving Trust pages were not opened. [S1][S2]",
+          "source_ids": [
+            "S1",
+            "S2"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Ending a contract and switching supplier",
+      "paragraphs": [
+        {
+          "text": "Ofgem says most suppliers will not let a business switch before the end of a fixed contract unless a termination clause has been agreed or an exit fee is paid. Fixed-rate contracts include a \"switching window\" that opens a few months before the end, during which a business can sometimes switch without a fee. [S2]",
+          "source_ids": [
+            "S2"
+          ]
+        },
+        {
+          "text": "For variable-rate arrangements (rolling/evergreen, out-of-contract and deemed), Ofgem says a business can switch to a new supplier at any time. A business using energy in new premises before a contract starts could be placed on a deemed-rate contract. [S2]",
+          "source_ids": [
+            "S2"
+          ]
+        },
+        {
+          "text": "Limitations: the findings repeat this same Ofgem S2 evidence in two places, so it should not be read as independent confirmation. The page is undated and gives no exit-fee amounts or notice-period lengths, so none are given here. The \"switch at any time\" wording is Ofgem's general statement, so individual supplier terms should still be checked. [S2]",
+          "source_ids": [
+            "S2"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Who counts as a microbusiness or small business",
+      "paragraphs": [
+        {
+          "text": "These definitions determine which protections apply. Ofgem defines a microbusiness as having fewer than 10 employees and turnover or balance sheet of no more than £2 million, or using up to 100,000 kWh a year of electricity. A small business is defined as having 11 to 50 employees and turnover up to £6.5 million or balance sheet up to £5 million, or using up to 200,000 kWh a year of electricity. [S1]",
+          "source_ids": [
+            "S1"
+          ]
+        },
+        {
+          "text": "The Energy Ombudsman gives matching definitions but expresses the small-business employee threshold as fewer than 50 employees. The two sources therefore word this threshold differently (11 to 50 versus fewer than 50), and businesses near the boundary should check which applies. [S1][S4]",
+          "source_ids": [
+            "S1",
+            "S4"
+          ]
+        },
+        {
+          "text": "Ofgem says microbusinesses get extra protections at renewal and end of contract. Suppliers must give clear contract information and renewal-price information before the contract ends. For evergreen contracts only, they must limit termination notice periods to 30 days and acknowledge requests to end a contract within 5 working days. [S1]",
+          "source_ids": [
+            "S1"
+          ]
+        },
+        {
+          "text": "Limitations: the sources do not detail the protections for small or large businesses, only noting that large businesses get fewer. Renewal-notice timing was not verified against licence conditions. S1 is undated; S4 was last updated on 24 March 2026. [S1][S4]",
+          "source_ids": [
+            "S1",
+            "S4"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Brokers and recent rule changes",
+      "paragraphs": [
+        {
+          "text": "Ofgem says brokers are usually paid commission by the supplier, and this may be included in the price. Brokers paid by a supplier must belong to an approved redress scheme, which can be checked on the Energy Ombudsman broker register or the Utilities Intermediaries Association accredited list. [S1]",
+          "source_ids": [
+            "S1"
+          ]
+        },
+        {
+          "text": "In an April 2024 press release, Ofgem announced several changes. The Standards of Conduct would apply to all businesses from 1 July 2024. Suppliers would have to signpost Micro Business consumers to Citizens Advice (and Citizens Advice Scotland), with the same rule for Small Business consumers from December 2024, subject to the new definition entering legislation. [S3]",
+          "source_ids": [
+            "S3"
+          ]
+        },
+        {
+          "text": "The same press release said the requirement to show broker fees in a contract's principal terms would extend from Micro Business consumers to all non-domestic customers, for contracts signed on and from 1 October 2024. Suppliers must also make the information available on request. From December 2024, suppliers would have to work only with brokers that are members of a redress scheme when securing Small Business contracts. Ofgem named the Energy Ombudsman and the Utilities Intermediaries Association as schemes for broker disputes. [S3]",
+          "source_ids": [
+            "S3"
+          ]
+        },
+        {
+          "text": "Limitations: this rests on a press release announcing rules, and some dates were described as conditional on legislation or expected by the end of that year. Final implementation was not checked against the licence conditions. Broker commission rules for microbusinesses were not verified from licence conditions or Ofgem's broker (TPI) page. [S3]",
+          "source_ids": [
+            "S3"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Disputes and the Energy Ombudsman",
+      "paragraphs": [
+        {
+          "text": "The Energy Ombudsman offers free, independent dispute resolution to small businesses and microbusinesses. It covers disputes with energy suppliers and energy brokers, among others. The business must first use the supplier's or broker's own complaints process. After 8 weeks, or once a deadlock letter or final response is issued, the Ombudsman may be able to help, subject to its Terms of Reference. [S4]",
+          "source_ids": [
+            "S4"
+          ]
+        },
+        {
+          "text": "Ofgem's April 2024 press release said the government's expanded Small Business definition would let businesses with fewer than 50 employees take complaints to the Energy Ombudsman. It also said Ofgem would update the Complaints Handling Standards so suppliers point Small Business consumers to the Ombudsman. [S3]",
+          "source_ids": [
+            "S3"
+          ]
+        },
+        {
+          "text": "Limitations: eligibility depends on the Ombudsman's Terms of Reference, which were not read. Large businesses are not covered by the definitions cited. The Ombudsman page was last updated on 24 March 2026. [S4]",
+          "source_ids": [
+            "S4"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "What makes up a business electricity price",
+      "paragraphs": [
+        {
+          "text": "An Ofgem blog post of 31 March 2026 says a business energy price covers the wholesale energy cost, network costs (the infrastructure to transport energy) and environmental costs (government decarbonisation schemes). It says wholesale costs can typically be about 40% of an electricity bill, though exact percentages vary. [S5]",
+          "source_ids": [
+            "S5"
+          ]
+        },
+        {
+          "text": "The same post says network costs were increasing in April 2026 to upgrade energy infrastructure, and that wholesale costs are volatile. It does not say whether network charge rises are passed through on fixed contracts, which depends on contract terms. It gives no figures for network or policy costs. This bill breakdown and the network cost rise rest only on this blog post. [S5]",
+          "source_ids": [
+            "S5"
+          ]
+        },
+        {
+          "text": "On the Climate Change Levy (CCL), HMRC's main electricity rate is £0.00775 per kWh from 1 April 2025, £0.00801 per kWh from 1 April 2026 and £0.00827 per kWh from 1 April 2027. These are the rates as published on a GOV.UK page last updated on 27 November 2025. [S6]",
+          "source_ids": [
+            "S6"
+          ]
+        },
+        {
+          "text": "Holders of a Climate Change Agreement (CCA) get a 92% discount on the electricity levy in every year shown. The rates do not apply to supplies to domestic consumers and charities for non-business use. The business energy supplier is responsible for charging the correct levy. [S6]",
+          "source_ids": [
+            "S6"
+          ]
+        },
+        {
+          "text": "Limitations: no official source was read on VAT for business electricity, so VAT is not covered here. No source was read on CCA eligibility criteria, other CCL exemptions, or energy-intensive industry relief (such as the British Industry Supercharger). Whether any of these apply to a particular business therefore needs checking elsewhere. [S6]",
+          "source_ids": [
+            "S6"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Recontracting in the current market",
+      "paragraphs": [
+        {
+          "text": "As of 31 March 2026, Ofgem said contract lengths were starting to return to 3 to 5 years. It expected fewer than 10% of businesses to recontract in March and April, a further 10-12% to be on deemed contracts, and a further 10% to recontract in May to July. These are Ofgem's expectations at that date. [S5]",
+          "source_ids": [
+            "S5"
+          ]
+        },
+        {
+          "text": "Ofgem's advice is to talk to the supplier and consider both short and long-term options. It says it may be better to stay temporarily on deemed or out-of-contract rates if longer-term offers are high. Suppliers may require security deposits and are not obliged to offer a business a contract. There is no cooling-off period. [S5]",
+          "source_ids": [
+            "S5"
+          ]
+        },
+        {
+          "text": "Ofgem also says a business should not feel pressured into signing. If a contract is discussed by phone, ask for it in writing before agreeing, and verify unexpected callers to avoid fraudsters. To pay only for what it uses, a business should submit regular meter readings or get a smart meter. [S5]",
+          "source_ids": [
+            "S5"
+          ]
+        },
+        {
+          "text": "Limitations: this is blog advice, not formal guidance, and reflects the market as of 31 March 2026. [S5]",
+          "source_ids": [
+            "S5"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Further advice, funding and green electricity",
+      "paragraphs": [
+        {
+          "text": "Ofgem signposts several sources of efficiency advice and support. These are the National Energy Foundation (free independent advice), the Energy Saving Trust, GOV.UK's Energy Technology List, the GOV.UK business finance and support finder, local councils, supplier schemes, the Smart Export Guarantee and Citizens Advice. Citizens Advice offers free advice on business energy contracts and rights. A business that cannot afford its bills is pointed to call its supplier about a payment plan. [S7]",
+          "source_ids": [
+            "S7"
+          ]
+        },
+        {
+          "text": "Limitations: the Ofgem page is undated and partly out of date, so it is used here only as a list of advice bodies and not as a source of current scheme details. The current status of the Energy Bills Discount Scheme or any successor was not established, and this report does not claim any support scheme is currently available. [S7]",
+          "source_ids": [
+            "S7"
+          ]
+        },
+        {
+          "text": "Ofgem administers the Renewable Energy Guarantees of Origin (REGO) scheme on behalf of government. It says licensed electricity suppliers in Great Britain have obligations under many environmental schemes, with the level depending on licence type, supply volumes and domestic customer count. [S8]",
+          "source_ids": [
+            "S8"
+          ]
+        },
+        {
+          "text": "Limitations: the REGO section of the page was not read, so this report cannot explain what a REGO represents or how a business should verify a green tariff claim. [S8]",
+          "source_ids": [
+            "S8"
+          ]
+        }
+      ]
+    }
+  ]
+}

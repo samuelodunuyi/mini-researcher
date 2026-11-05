@@ -1,0 +1,70 @@
+{
+  "topic": "What a UK business should know before signing a new electricity contract",
+  "tasks": [
+    {
+      "id": "T1",
+      "question": "What are the main types of UK business electricity contract (fixed, variable, deemed, out-of-contract, flexible/pass-through, third-party-intermediary-brokered) and how do they differ in price certainty, risk and flexibility?",
+      "evidence_required": "Definitions and comparisons of contract types from regulator or consumer-advice guidance, including how deemed and out-of-contract rates arise and how fixed-term and flexible products are structured.",
+      "min_sources": 2,
+      "preferred_source_types": [
+        "Ofgem business pages",
+        "Citizens Advice business guidance",
+        "Energy Ombudsman",
+        "GOV.UK"
+      ],
+      "addresses": null
+    },
+    {
+      "id": "T2",
+      "question": "What are the rules and protections around signing, renewing, switching and ending a business electricity contract (notice windows, auto-rollover, early termination charges, objection rights, switching timelines, Ofgem Standards of Conduct and microbusiness protections)?",
+      "evidence_required": "Current regulatory requirements and guidance on renewal notices, notice periods, termination fees, switching process, contract transparency and the definition of a microbusiness, with dates or licence condition references where available.",
+      "min_sources": 3,
+      "preferred_source_types": [
+        "Ofgem official pages and decisions",
+        "Energy Ombudsman",
+        "Citizens Advice",
+        "GOV.UK"
+      ],
+      "addresses": null
+    },
+    {
+      "id": "T3",
+      "question": "How is a business electricity bill made up (wholesale energy, network/distribution charges, policy and environmental levies, standing charges, VAT, Climate Change Levy) and which elements are fixed, pass-through or negotiable in a contract?",
+      "evidence_required": "Official breakdown of cost components, including which are passed through, how non-commodity costs are treated in fixed versus flexible contracts, and the tax and levy treatment (CCL, VAT, reduced rates or exemptions). Include recent changes to charges where documented.",
+      "min_sources": 3,
+      "preferred_source_types": [
+        "Ofgem",
+        "GOV.UK / HMRC",
+        "National Energy System Operator or network operator pages",
+        "Energy industry bodies"
+      ],
+      "addresses": null
+    },
+    {
+      "id": "T4",
+      "question": "What should a business check about suppliers and brokers before signing (supplier financial resilience, broker commission disclosure, Ofgem rules for third-party intermediaries, accreditation, complaints and dispute routes)?",
+      "evidence_required": "Regulator and ombudsman guidance on broker commission transparency, rules or codes of practice for intermediaries, how to check supplier standing, and how to escalate complaints, including Energy Ombudsman eligibility.",
+      "min_sources": 3,
+      "preferred_source_types": [
+        "Ofgem",
+        "Energy Ombudsman",
+        "Citizens Advice",
+        "Trade body or code of practice (e.g. Utilities Intermediaries Association)"
+      ],
+      "addresses": null
+    },
+    {
+      "id": "T5",
+      "question": "What practical preparations and wider considerations should a business address before signing (meter type and half-hourly settlement, contract capacity and usage data, timing of purchase, renewable or green tariff claims, Energy Bill Discount Scheme successor support, energy efficiency and reporting duties such as ESOS)?",
+      "evidence_required": "Official guidance on metering and settlement for business customers, how to verify green or renewable claims (REGOs, Ofgem or ASA guidance), any current government support schemes for businesses, and relevant compliance obligations affecting energy purchasing decisions.",
+      "min_sources": 3,
+      "preferred_source_types": [
+        "Ofgem",
+        "GOV.UK / Department for Energy Security and Net Zero",
+        "Environment Agency (ESOS)",
+        "Advertising Standards Authority or Ofgem green tariff guidance"
+      ],
+      "addresses": null
+    }
+  ]
+}
