@@ -32,6 +32,8 @@ I would then build an **evaluation harness**: a fixed set of topics, each run tw
 
 Costs are estimates from logged tokens at Sonnet 5.5 list prices, not billing figures; the cost without caching is in brackets.
 
+I added a quick depth because not every question needs a full investigation. It takes roughly a third of the time and cost of a standard run (152 s and about $0.34, against 422 s and $1.17), so someone with a narrower question gets an answer sooner and pays less, accepting fewer sources as the trade-off.
+
 | Run | Depth | Time | Input tokens (cached) | Output tokens | Sources | Estimated cost |
 |---|---|---:|---:|---:|---:|---:|
 | `20261104-164855-59366f` | Standard | 422 s | 1,946,784 (90%) | 52,161 | 20 | $1.17 ($4.42) |
@@ -41,7 +43,7 @@ Research took 67% of the standard run (281 of 422 seconds). The tasks within a r
 
 The researcher also accounts for 94% of input tokens, because its session resends the pages it has already read. Summarising earlier tasks instead would cut context size and time further. I would test that, and a cheaper model for extraction while keeping Sonnet for planning and review, once the evaluation harness can show that quality holds.
 
-Already in place: prompt caching (an estimated 74% saving), fewer and broader tasks with source reuse, passage selection for long pages, and `--depth quick` at roughly a third of the time and cost.
+Already in place: prompt caching (an estimated 74% saving), fewer and broader tasks with source reuse, and passage selection for long pages.
 
 ## What I would do with one more week
 
