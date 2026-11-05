@@ -1,0 +1,75 @@
+<!doctype html>
+<html lang="en-GB">
+<head>
+<meta charset="utf-8">
+<title>{{ report.title }}</title>
+<style>
+  @page { size: A4; }
+  body { font-family: "Segoe UI", Arial, Helvetica, sans-serif; color: #1f2933; font-size: 10.5pt; line-height: 1.5; margin: 0; }
+  header { border-bottom: 2px solid #1d4e89; padding-bottom: 10px; margin-bottom: 18px; }
+  h1 { font-size: 21pt; color: #1d4e89; margin: 0 0 6px; line-height: 1.2; }
+  .meta { color: #52606d; font-size: 9pt; margin: 2px 0; }
+  h2 { font-size: 13pt; color: #1d4e89; margin: 22px 0 6px; page-break-after: avoid; }
+  p { margin: 0 0 9px; text-align: left; }
+  a { color: #1d4e89; text-decoration: none; }
+  a.cite { font-size: 8.5pt; vertical-align: baseline; }
+  .intro { background: #f3f6fa; border-left: 3px solid #1d4e89; padding: 10px 12px; margin-bottom: 8px; }
+  ol.refs { padding-left: 0; list-style: none; font-size: 9pt; }
+  ol.refs li { margin-bottom: 8px; page-break-inside: avoid; }
+  .ref-id { font-weight: 600; color: #1d4e89; display: inline-block; min-width: 34px; }
+  .ref-url { word-break: break-all; color: #3e4c59; }
+  .limitations ul { margin: 0 0 9px; padding-left: 18px; }
+  .limitations .reason { color: #52606d; font-size: 9pt; }
+  .note { color: #52606d; font-size: 8.5pt; margin-top: 18px; border-top: 1px solid #d9e2ec; padding-top: 6px; }
+</style>
+</head>
+<body>
+<header>
+  <h1>{{ report.title }}</h1>
+  <p class="meta"><strong>Topic:</strong> {{ report.topic }}</p>
+  <p class="meta"><strong>Generated:</strong> {{ generated }}{% if run_id %} &middot; Run {{ run_id }}{% endif %}</p>
+</header>
+
+<section>
+  <h2>Introduction</h2>
+  <div class="intro"><p>{{ report.introduction | cite }}</p></div>
+</section>
+
+{% for section in report.sections %}
+<section>
+  <h2>{{ section.heading }}</h2>
+  {% for paragraph in section.paragraphs %}
+  <p>{{ paragraph.text | cite }}</p>
+  {% endfor %}
+</section>
+{% endfor %}
+
+{% if excluded_tasks %}
+<section class="limitations">
+  <h2>Limitations of this report</h2>
+  <p>The research did not produce enough verified evidence for the following questions, so this report does not cover them:</p>
+  <ul>
+    {% for t in excluded_tasks %}
+    <li>{{ t.question }} <span class="reason">({{ t.reason }})</span></li>
+    {% endfor %}
+  </ul>
+</section>
+{% endif %}
+
+<section>
+  <h2>References</h2>
+  <ol class="refs">
+    {% for s in references %}
+    <li id="ref-{{ s.source_id }}">
+      <span class="ref-id">[{{ s.source_id }}]</span>
+      {{ s.title }}{% if s is publisher_shown %}. {{ s.publisher }}{% endif %}.
+      {% if s.published_date %}{{ s.published_date | readable_dates }}. {% endif %}
+      Accessed {{ s.accessed_at.strftime("%d %B %Y").lstrip("0") }}.<br>
+      <a class="ref-url" href="{{ s.url }}">{{ s.url }}</a>
+    </li>
+    {% endfor %}
+  </ol>
+  <p class="note">Every factual paragraph cites the sources it is based on. All sources were opened and read by the research agent on the access date shown. Information may have changed since then.</p>
+</section>
+</body>
+</html>
