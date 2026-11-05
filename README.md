@@ -131,6 +131,8 @@ Each run gets its own directory at `artifacts/runs/<run_id>/`. These run directo
 
 Both samples were generated using the final code.
 
+- `artifacts/earlier_run/`: an earlier standard-depth run (`20261104-155918-bc8ed4`), made before the reviewer caveats were added. It's kept for the consistency comparison in the design note.
+
 ### Reading `trace.jsonl`
 
 Every line in the trace has the same fields: `timestamp`, `run_id`, `agent`, `session_id`, `event`, `task_id`, `handoff_id`, `status`, `duration_ms`, `metadata` and `error`. API keys are replaced with `[REDACTED]` before anything is written to the file. Hand-off IDs follow the order of execution, starting with `H1-plan`, `H2-task-T1` and so on.
@@ -212,5 +214,5 @@ app/
   tools/        search.py (Tavily), browser.py (Playwright), pdf.py (Jinja2 + Chromium PDF)
   prompts/      one instruction file per agent    templates/   report.html
 tests/          pytest suite
-artifacts/      sample_run/, sample_run_quick/ (committed); runs/ (git-ignored)
+artifacts/      sample_run/, sample_run_quick/, earlier_run/ (committed); runs/ (git-ignored)
 ```

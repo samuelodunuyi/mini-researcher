@@ -24,7 +24,7 @@ Several failure cases are already handled. The source registry and numerical che
 
 ## Consistency
 
-The main thing I would improve is report structure: the creator currently organises the findings itself, so runs on the same topic differ. The two most recent standard runs, `20261104-164855-59366f` and `20261104-155918-bc8ed4` (an earlier run, not included in the repository), cited 20 and 17 sources, produced 30 and 33 findings and used different headings. A **fixed report outline with one section per planned task** would make reports easier to compare and gaps more obvious.
+The main thing I would improve is report structure: the creator currently organises the findings itself, so runs on the same topic differ. The two most recent standard runs, `20261104-164855-59366f` and `20261104-155918-bc8ed4` (an earlier run, in `artifacts/earlier_run/`), cited 20 and 17 sources, produced 30 and 33 findings and used different headings. A **fixed report outline with one section per planned task** would make reports easier to compare and gaps more obvious.
 
 I would then build an **evaluation harness**: a fixed set of topics, each run twice, scored by code (citations, numerical support, share of official sources, coverage per task) and by an LLM judge (support and completeness). Run on every prompt or model change, it would measure whether the change helped instead of judging from one PDF. Already in place: Pydantic schemas, a fixed prompt per agent, one Jinja2 template and references written by code.
 

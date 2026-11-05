@@ -1,0 +1,272 @@
+{
+  "title": "What a UK Business Should Know Before Signing a New Electricity Contract",
+  "topic": "What a UK business should know before signing a new electricity contract",
+  "introduction": "This report covers the main points a UK business should understand before agreeing a new electricity contract. It looks at contract types, what makes up a bill, fixed and pass-through pricing, protections and complaints routes, brokers, meters, and compliance and green-tariff matters. It draws on regulator and government guidance (Ofgem, HMRC, GOV.UK, DESNZ), the Energy Ombudsman, Citizens Advice, and trade-body and commercial broker sources. Where a source is commercial or a trade body, or where rules have been consulted on but not confirmed, the report says so.",
+  "sections": [
+    {
+      "heading": "Contract types and what happens without a contract",
+      "paragraphs": [
+        {
+          "text": "Ofgem lists the main business electricity contract types as fixed-rate, variable-rate, deemed, out-of-contract, rollover/evergreen and flexible (structured). Suppliers may not offer all of them. Fixed contracts fix unit rates and standing charges for the contract length, so the cost per kWh stays the same whatever happens to wholesale prices. Under a variable-rate contract the price can rise or fall during the contract. Flexible (structured) contracts are described as suitable for large businesses that use a lot of energy, and let them buy energy in smaller portions when market conditions are better instead of locking in one price. Ofgem's page gives only brief definitions and shows no date, so the pros and cons are partly inferred. [S1]",
+          "source_ids": [
+            "S1"
+          ]
+        },
+        {
+          "text": "Deemed and out-of-contract rates apply when there is no agreed contract. You are put on a deemed contract automatically if you move into new premises without arranging a contract, or if your supplier goes out of business. Out-of-contract rates apply when a fixed term ends without a new deal. Ofgem says both are usually more expensive than negotiated or fixed-term rates, and some contracts roll over automatically, usually for 12 months and possibly at a higher rate. [S1] Citizens Advice describes deemed tariffs as usually the most expensive and out-of-contract tariffs as usually very expensive. It says you can switch at any time without a fee or notice, and that suppliers should contact you about 3 months before a fixed term ends. Its advice applies to England, and the roll-over and notice protections mainly relate to microbusinesses. [S2]",
+          "source_ids": [
+            "S1",
+            "S2"
+          ]
+        },
+        {
+          "text": "Most business contracts last between 1 and 3 years. Contracts agreed over the phone are binding, and most suppliers offer no cooling-off period. [S2] Ofgem also says there is no cooling-off period after agreeing a contract. [S1]",
+          "source_ids": [
+            "S1",
+            "S2"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "What a business electricity price is made of",
+      "paragraphs": [
+        {
+          "text": "An Ofgem blog of 31 March 2026 says the price covers wholesale energy cost, network costs and environmental costs (government decarbonisation schemes). Wholesale costs can typically be about 40% of an electricity bill, though exact percentages vary. Prices vary by supplier and by the type and size of business. The blog said network costs were increasing in April 2026 and that wholesale costs are volatile. It gives only a broad split, not a full breakdown. [S4]",
+          "source_ids": [
+            "S4"
+          ]
+        },
+        {
+          "text": "Bills include a variable consumption charge (the unit rate) and a fixed standing charge. For VAT purposes, HMRC treats the standing charge as part of the charge for the supply, and the value of the supply includes Climate Change Levy (CCL) where appropriate. [S5]",
+          "source_ids": [
+            "S5"
+          ]
+        },
+        {
+          "text": "Fuel and power supplies are standard-rated for VAT unless they qualify for the reduced rate. Qualifying use includes domestic use and charity non-business use. Electricity up to an average of 33 kWh per day (1,000 kWh per month) to one customer at one premises is also reduced-rated under a de minimis rule. Where 60% or more of a supply is qualifying use, the whole supply is treated as qualifying; below that, only the qualifying part is reduced-rated. [S5] HMRC's notice (last updated 28 October 2026) records a temporary zero rate of VAT for Great Britain, announced on 21 July 2026, for domestic supplies and other qualifying use. Budget 2026 announced an extension from 31 March to 30 June 2027. The zero rate applies to qualifying use, not ordinary commercial use, which remains standard-rated, and rates may change after the notice's update date. [S5]",
+          "source_ids": [
+            "S5"
+          ]
+        },
+        {
+          "text": "CCL main rates for electricity are £0.00775 per kWh for 1 April 2023, 2024 and 2025, £0.00801 per kWh from 1 April 2026 and £0.00827 per kWh from 1 April 2027. Climate change agreement holders get a 92% discount on electricity. The rates do not apply to supplies to domestic consumers and charities for non-business use. Suppliers are responsible for charging the correct levy. The page (last updated 27 November 2025) does not say whether CCL is passed through in fixed contracts. [S3]",
+          "source_ids": [
+            "S3"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Fixed versus pass-through pricing",
+      "paragraphs": [
+        {
+          "text": "Ofgem says fixed contracts fix unit rates and standing charges for the term, while variable contracts can change. It advises checking what fees and charges are involved and whether broker commission is in the price. [S1] Neither Ofgem nor Citizens Advice, as read here, details which non-commodity charges (network, policy levies, CCL) are fixed or passed through. That detail comes from commercial sources, which are useful but not authoritative. [S1][S4]",
+          "source_ids": [
+            "S1",
+            "S4"
+          ]
+        },
+        {
+          "text": "Broker Tritility says that in most business contracts 'fixed' refers to the commodity element (wholesale cost plus supplier margin), typically around 40% of the bill. Whether network costs and government levies are also fixed depends on the contract terms. In a fully fixed ('all-in') contract the supplier builds an estimate of these charges into the unit rate and standing charge and absorbs later increases, usually pricing in a buffer. [S13] The comparison site EnergyCosts.co.uk makes a similar point: a contract can be called 'fixed' but still allow some regulated charges to move. [S14] Ofgem's blog confirms the broad split of wholesale, network and environmental costs. [S4]",
+          "source_ids": [
+            "S13",
+            "S14",
+            "S4"
+          ]
+        },
+        {
+          "text": "EnergyCosts.co.uk describes four structures: fully fixed, part-fixed and part-pass-through, fully pass-through (billed at actual cost, more transparent but less certain) and flexible (wholesale traded separately, needing active management). [S14] Tritility says that in a pass-through contract the commodity rate stays fixed while network and policy charges move with the rates set by NESO, the distribution network operator and the government, so the business carries the risk. [S13] Smaller businesses usually see charges bundled into their rates, while larger or half-hourly customers may see them itemised. [S14] Ofgem describes flexible (structured) contracts for large businesses. [S1] Terminology varies between suppliers and brokers, and 'pass-through plus' was not defined in the sources read.",
+          "source_ids": [
+            "S1",
+            "S13",
+            "S14"
+          ]
+        },
+        {
+          "text": "Charges that can be exposed include transmission charges (TNUoS), distribution charges (DUoS), balancing charges (BSUoS) and policy levies. [S13][S14] Tritility reports that TNUoS charges rose by an average of around 62% across Great Britain from April 2026. It says customers on fully fixed contracts likely saw no immediate effect, while those with network-charge pass-through clauses saw it applied mid-contract. This figure comes from a broker and was not checked against NESO or Ofgem. [S13] EnergyCosts.co.uk also lists CCL among non-commodity charges, and CCL rates are published by HMRC. [S14][S3] It cites a Cornwall Insight forecast that non-commodity charges would be nearly 60% of a typical business electricity bill by 2026. [S14]",
+          "source_ids": [
+            "S3",
+            "S13",
+            "S14"
+          ]
+        },
+        {
+          "text": "Clauses and questions to raise before signing, according to these commercial sources: whether TNUoS and BSUoS are fixed or passed through, what tariff assumption is in the quote, what happens if NESO revises TNUoS mid-term, and whether policy levies such as CCL, Capacity Market and CfD are in the fixed rate. Check for pass-through, reconciliation (the supplier adjusting charges later) and change-in-law or regulatory re-opener clauses, which can let suppliers reopen pricing even for all-in customers. All suppliers also reserve rights to change terms in exceptional circumstances outside their control (force majeure). If charges aren't shown, ask the supplier or broker for a cost breakdown. The exact wording of such clauses varies by supplier. [S13][S14]",
+          "source_ids": [
+            "S13",
+            "S14"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Protections and recent rule changes",
+      "paragraphs": [
+        {
+          "text": "Microbusinesses get extra protections, and Ofgem says the contract types and terms available usually depend on business size and energy use. Ofgem's current page defines a microbusiness as having fewer than 10 employees and turnover or balance sheet total of no more than £2 million, or using up to 100,000 kWh of electricity a year. Suppliers must give clear contract information and renewal prices before the contract ends. For evergreen contracts only, termination notice is limited to 30 days and requests to end must be acknowledged within 5 working days. [S1] A 2024 Ofgem press release gives the turnover test as 2 million euros (equivalent to £1.716m on 22 March 2024) and gives a separate small business definition: fewer than 50 employees and turnover of £6.5 million or balance sheet total of £5 million, or annual electricity use of 200,000 kWh. [S6] The sources differ slightly in wording, and the underlying licence conditions were not read.",
+          "source_ids": [
+            "S1",
+            "S6"
+          ]
+        },
+        {
+          "text": "Citizens Advice says a roll-over period can't exceed 12 months, and that a microbusiness on a fixed term should usually wait until the end to avoid an exit fee. Once the fixed term has ended, or on a deemed tariff, you can switch with no fee or notice. Evergreen contracts may need up to 30 days' notice. [S2]",
+          "source_ids": [
+            "S2"
+          ]
+        },
+        {
+          "text": "The trade body UIA lists further microbusiness protections: suppliers cannot charge for energy consumed over 12 months ago if incorrectly billed, principal terms including broker fees must be clearly disclosed, full terms are due within 10 days of signing, rollovers are capped at 12 months, and suppliers must provide key renewal terms at least 60 days before expiry. This is a trade-body summary, not checked against licence conditions, and other sources describe renewal duties differently or without a stated day count. [S8]",
+          "source_ids": [
+            "S8"
+          ]
+        },
+        {
+          "text": "In April 2024 Ofgem announced that from 1 July 2024 the Standards of Conduct would apply to businesses of any size, not only microbusinesses. The requirement for a contract's principal terms to display broker fees clearly was extended to all non-domestic customers for contracts signed on and from 1 October 2024. Suppliers must work only with brokers that belong to a redress scheme when securing small business contracts. Suppliers must also signpost microbusiness customers to Citizens Advice, and small business customers from December 2024. This was an announcement of planned rules with some dates described as expected, so final licence text and effective dates should be checked. [S6]",
+          "source_ids": [
+            "S6"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Using brokers and intermediaries",
+      "paragraphs": [
+        {
+          "text": "You can arrange a contract yourself or use a broker, consultant or price comparison service. Brokers charge for their services. Some charge an upfront fee, but most are paid commission by the chosen supplier. Brokers paid by suppliers must belong to an approved redress scheme (the Energy Ombudsman or the UIA), and price comparison sites should be checked for commission and market coverage. [S1] Citizens Advice says that without registration you can't complain if something goes wrong. A broker paid by the supplier must tell a microbusiness how much the supplier pays before the contract is agreed, and terms including broker fees should arrive within 10 days. If a broker misled you, you may be able to cancel the contract or get your money back. [S2] Neither page quantifies typical commission levels.",
+          "source_ids": [
+            "S1",
+            "S2"
+          ]
+        },
+        {
+          "text": "The UIA, which accredits brokers, says brokers are not licensed. It advises confirming that the broker is UIA-accredited and follows its Code of Practice, and is in a Broker ADR scheme if you are a micro or small business. It also advises asking how the broker is paid, being cautious of 'free' services because costs may sit in energy rates, and confirming charges, termination fees, price changes, notice periods and duration before signing. It suggests avoiding brokers whose contracts let them recover 'lost' commission if a contract doesn't go live or ends early, and notes that verbal contracts are binding. As a trade body, its advice is industry self-regulatory guidance rather than regulation. [S8] Ofgem says there is no cooling-off period, so a trustworthy broker matters. [S1]",
+          "source_ids": [
+            "S1",
+            "S8"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Checks before you sign",
+      "paragraphs": [
+        {
+          "text": "Ofgem says to know the contract type, term length, any fees, your protections, and whether broker fees or commissions are in the price. Also know what happens at the end, including automatic renewal or a move to out-of-contract or deemed rates. [S1] Citizens Advice advises checking the current contract's end date, standing charges, per-unit costs and annual usage. When comparing quotes, check whether the unit price can change, extra costs such as maintenance charges, contract length, cancellation fees, notice needed to end the contract and any cooling-off period. It also advises negotiating, mentioning other offers, and asking for full terms and a written contract. Its advice is for England and written for small businesses. [S2]",
+          "source_ids": [
+            "S1",
+            "S2"
+          ]
+        },
+        {
+          "text": "Ofgem's March 2026 blog says suppliers may require security deposits because of greater risks of businesses defaulting, are not obliged to offer businesses a contract, and offers may be harder to find. You shouldn't feel pressured. Ask for phone contracts in writing and verify unexpected callers to avoid fraud. [S4] If your supplier goes bust, Citizens Advice says not to switch tariff or supplier until your account has moved to the new supplier. [S2] The sources read do not explain how credit checks are done or deposit amounts set.",
+          "source_ids": [
+            "S2",
+            "S4"
+          ]
+        },
+        {
+          "text": "For quotes you need to say what the business does and how much energy it uses, and annual usage affects which business-size category and protections apply. [S2][S1] Ofgem says microbusiness status can depend on annual electricity use of up to 100,000 kWh, and small business status on up to 200,000 kWh. [S1] Submit regular meter readings or get a smart meter to be billed accurately. [S4] The UIA likewise advises regular readings where readings are manual. [S8]",
+          "source_ids": [
+            "S1",
+            "S2",
+            "S4",
+            "S8"
+          ]
+        },
+        {
+          "text": "Your Meter Point Administration Number (MPAN) identifies the supply point. Citizens Advice says it is on your electricity bill, sometimes called the 'supply number', and can be found by calling your supplier or checking your online account if you don't get bills. [S16] British Gas Business says it is usually a 21-digit number beginning with 'S', is shown on the bill under 'Details of charges', and cannot be found on the physical meter. The supplier normally needs the last 13 digits. If you can't find it, ask your property manager, landlord or electricity distributor. [S15] Digit counts differ between the sources, neither page is dated, and the Citizens Advice page is for domestic smart meter checks, so applying it to business supplies is an inference.",
+          "source_ids": [
+            "S15",
+            "S16"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Market conditions and timing",
+      "paragraphs": [
+        {
+          "text": "Ofgem's March 2026 blog says wholesale costs are volatile and will continue to be affected by the situation in the Middle East. Contract lengths were starting to return to 3 to 5 years. It expected less than 10% of businesses to recontract in March and April, 10-12% to be on deemed contracts, and another 10% to recontract in May to July. It suggests it may be better to stay temporarily on deemed or out-of-contract rates if longer-term offers are high, and to ask suppliers about both short and long-term options. This is time-specific commentary, not advice for every business. [S4]",
+          "source_ids": [
+            "S4"
+          ]
+        },
+        {
+          "text": "Ofgem says fixed contracts keep the cost per kWh the same whatever wholesale prices do, variable contracts can rise or fall, and flexible contracts suit large businesses wanting to buy in portions. Ofgem gives no formal purchasing strategy such as layered buying. [S1][S4]",
+          "source_ids": [
+            "S1",
+            "S4"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Smart and advanced meters",
+      "paragraphs": [
+        {
+          "text": "A DESNZ consultation (issued 23 October 2025) says the existing non-domestic smart meter targets framework required 68.7% of relevant premises to have smart meters by the end of 2025, when it ends. It describes smart-contingent contracts as fixed-term contracts requiring a smart or advanced meter, which the government says are typically around 40% cheaper than deemed and out-of-contract rates. The consultation considers requiring that suppliers can't enter new fixed-term contracts unless the customer has, or agrees to, a smart or advanced meter, with information to consumers 'from 2027'. It also asks whether to extend this to larger sites (profile classes 5-8, or gas above 732 MWh a year), which suppliers must currently supply with advanced meters subject to all reasonable steps. This is a consultation covering Great Britain, so final rules may differ. [S12]",
+          "source_ids": [
+            "S12"
+          ]
+        },
+        {
+          "text": "The consultation also notes that since 1 October 2024 suppliers must give smaller organisations with smart meters free regular energy use information, and organisations of all sizes can request free access to their smart meter data (since 1 December 2022). Smart meters are expected to reduce consumption by 2.8% (electricity) to 4.5% (gas) per non-domestic meter. [S12]",
+          "source_ids": [
+            "S12"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Compliance and green tariff claims",
+      "paragraphs": [
+        {
+          "text": "The Energy Savings Opportunity Scheme (ESOS) is mandatory for large UK undertakings: a UK company employing 250 or more people, or with turnover above £44 million and a balance sheet total above £38 million. Qualifying organisations must carry out an assessment every 4 years, covering buildings, industrial processes and transport, and the regulator can issue civil sanctions including financial penalties. Phase 4 changes include that Display Energy Certificates and Green Deal assessments can no longer be used as alternative compliance routes, and that progress against action plan commitments must be reported. The guidance was last updated 2 September 2026. Other schemes, such as SECR, were not covered in the sources read. [S11]",
+          "source_ids": [
+            "S11"
+          ]
+        },
+        {
+          "text": "Green tariff claims are backed by Renewable Energy Guarantees of Origin (REGOs). One REGO is issued per MWh of eligible renewable output and supports suppliers' Fuel Mix Disclosure, which requires licensed suppliers to disclose the mix of fuels used to generate the electricity they supply. EU Guarantees of Origin are no longer recognised for GB Fuel Mix Disclosure from the disclosure period beginning 1 April 2023. Ofgem's page doesn't explain how a business should verify a specific supplier's green claim. [S10]",
+          "source_ids": [
+            "S10"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "If something goes wrong: complaints and redress",
+      "paragraphs": [
+        {
+          "text": "Raise the issue with your supplier first. The Energy Ombudsman can help small businesses if you reach deadlock or the supplier has taken more than eight weeks. From 19 December 2024 eligible small businesses are those with fewer than 50 employees and turnover of at most £6.5 million or balance sheet total of £5.0 million, or electricity use of not more than 200,000 kWh, or gas use of not more than 500,000 kWh. Outcomes include practical action, an apology, financial awards up to £20,000 and recommendations. The Ombudsman cannot fine suppliers or set prices, and the supplier has 28 days to implement a remedy. Businesses larger than the small business definition fall outside this scheme, and the source doesn't say what redress they have. [S7]",
+          "source_ids": [
+            "S7"
+          ]
+        },
+        {
+          "text": "Small businesses can also use the Energy Ombudsman for disputes with brokers from 19 December 2024, but only if the broker is a member of the Ombudsman's scheme, so check its Energy Brokers Register. Brokers choose which scheme to join, and some may use another, such as the UIA, which this page doesn't cover. The process is: complain to the broker first; register the dispute; consider any early resolution offer; if none is accepted, both sides provide evidence within 14 days; the Ombudsman issues a decision; and if you accept it the broker has 28 days to implement the remedy. The Ombudsman may look into a dispute only after deadlock or eight weeks. [S17]",
+          "source_ids": [
+            "S17"
+          ]
+        },
+        {
+          "text": "Broker awards are capped lower than supplier awards. The Ombudsman's broker page and Terms of Reference limit awards to £10,000 per complaint for complaints about brokers, against £20,000 for small business complaints about suppliers. The Ombudsman cannot fine or punish brokers or suppliers. The £10,000 figure is a cap, not a typical amount, and the Terms of Reference extract is dated 29 January 2025. [S17][S18][S7]",
+          "source_ids": [
+            "S7",
+            "S17",
+            "S18"
+          ]
+        },
+        {
+          "text": "The broker remit is narrower than the supplier one. It covers the sale and processing of contracts (including mis-sales) and account management by participating brokers, but not issues with a supplier's service after the sale. Supplier disputes typically cover billing, sales process, customer service, switching problems and charges. [S18][S7]",
+          "source_ids": [
+            "S7",
+            "S18"
+          ]
+        }
+      ]
+    }
+  ]
+}

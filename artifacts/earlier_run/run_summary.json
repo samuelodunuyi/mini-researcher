@@ -1,0 +1,70 @@
+{
+  "run_id": "20261104-155918-bc8ed4",
+  "topic": "What a UK business should know before signing a new electricity contract",
+  "depth": "standard",
+  "status": "completed",
+  "error": null,
+  "duration_s": 384.0,
+  "research_rounds": 2,
+  "decisions": [
+    "RESEARCH_MORE",
+    "ACCEPT"
+  ],
+  "tasks": 8,
+  "findings": 33,
+  "sources_read": 17,
+  "sources_failed": 0,
+  "sources_irrelevant": 1,
+  "failed_task_ids": [],
+  "tokens": {
+    "total": {
+      "calls": 37,
+      "input_tokens": 148,
+      "cache_write_tokens": 166640,
+      "cache_read_tokens": 1674291,
+      "output_tokens": 44072,
+      "total_input_tokens": 1841079
+    },
+    "by_agent": {
+      "orchestrator": {
+        "calls": 3,
+        "input_tokens": 12,
+        "cache_write_tokens": 44968,
+        "cache_read_tokens": 20346,
+        "output_tokens": 4369,
+        "total_input_tokens": 65326
+      },
+      "researcher": {
+        "calls": 33,
+        "input_tokens": 132,
+        "cache_write_tokens": 101319,
+        "cache_read_tokens": 1653945,
+        "output_tokens": 31491,
+        "total_input_tokens": 1755396
+      },
+      "creator": {
+        "calls": 1,
+        "input_tokens": 4,
+        "cache_write_tokens": 20353,
+        "cache_read_tokens": 0,
+        "output_tokens": 8212,
+        "total_input_tokens": 20357
+      }
+    }
+  },
+  "stage_seconds": {
+    "plan": 12.5,
+    "research": 302.6,
+    "checks": 0.0,
+    "review": 21.7,
+    "create": 46.3,
+    "validate_citations": 0.0,
+    "render_html": 0.0,
+    "generate_pdf": 0.5,
+    "verify_pdf": 0.3
+  },
+  "decision_overrides": 0,
+  "accept_refusals": 0,
+  "excluded_tasks": [],
+  "pdf": "artifacts\\runs\\20261104-155918-bc8ed4\\report.pdf"
+}

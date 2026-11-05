@@ -1,0 +1,43 @@
+{
+  "outcome": "RESEARCH_MORE",
+  "rationale": "Coverage is good overall. All five tasks have findings from mostly official sources (Ofgem, GOV.UK/HMRC, Energy Ombudsman, Citizens Advice, and the UIA trade body). The findings are consistent with each other, and the Researcher flagged the limitations honestly. Three important gaps remain that one more authoritative page each could plausibly fill. (1) T2: no source says which non-commodity charges (network, policy levies, CCL) are fixed or passed through under fixed versus pass-through contracts. This is central to a signing decision, and F9 admits it is unanswered. (2) T4: the Ofgem half-hourly page (S9) was unusable, so there is no official guidance on meter type, half-hourly versus non-half-hourly metering, MPAN, or finding consumption data. (3) T3: the Energy Ombudsman's broker/TPI page was not opened, so the broker complaint route and award limit are missing. Lower-priority gaps (EII support, SECR, structured purchasing strategies, how supplier credit checks work, licence condition text) should go into the report as stated limitations rather than more follow-ups. The report should also treat the VAT notice's temporary zero rate as applying to domestic or qualifying use only, and the numeric standard VAT rate as unconfirmed. The smart meter source is a consultation, not final rules.",
+  "follow_up_tasks": [
+    {
+      "id": "T6",
+      "question": "In UK business electricity contracts, which cost elements (network charges such as DUoS/TNUoS, BSUoS, policy levies such as RO/FiT/CfD/capacity market, and CCL) are typically fixed in a fixed-price contract and which can be passed through or varied, and what do fixed, 'pass-through' and 'pass-through plus' contracts mean?",
+      "evidence_required": "An authoritative explanation (Ofgem, a network operator, NESO or a recognised industry or business body) of how non-commodity charges are treated in fixed versus pass-through/flexible contracts, including any 'change in law' or pass-through clauses a business should look for. Include dates.",
+      "min_sources": 2,
+      "preferred_source_types": [
+        "Ofgem",
+        "Distribution network operators or NESO",
+        "Citizens Advice",
+        "Industry bodies or trade associations"
+      ],
+      "addresses": "T2"
+    },
+    {
+      "id": "T7",
+      "question": "How can a UK business find out its meter type (half-hourly versus non-half-hourly, smart or advanced), its MPAN and its annual consumption before getting quotes, and why do these matter for pricing and contract terms?",
+      "evidence_required": "Official or independent guidance on locating the MPAN (the supply number on the bill or meter), the difference between half-hourly and non-half-hourly metering and profile classes, and where to get consumption history (bills, supplier, meter data). Include how these inputs affect quotes.",
+      "min_sources": 2,
+      "preferred_source_types": [
+        "Ofgem (try an alternative page to S9, or its business metering pages)",
+        "Citizens Advice",
+        "Energy Saving Trust or Carbon Trust",
+        "Energy Ombudsman or UIA guidance"
+      ],
+      "addresses": "T4"
+    },
+    {
+      "id": "T8",
+      "question": "What is the Energy Ombudsman's route and remit for complaints about energy brokers/TPIs, including the maximum award and eligibility, and how does this differ from complaints against suppliers?",
+      "evidence_required": "The Energy Ombudsman's broker/TPI complaints page, stating who can complain, the award limit, the process and any time limits, with page dates.",
+      "min_sources": 1,
+      "preferred_source_types": [
+        "Energy Ombudsman",
+        "Ofgem"
+      ],
+      "addresses": "T3"
+    }
+  ]
+}

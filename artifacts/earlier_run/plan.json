@@ -1,0 +1,72 @@
+{
+  "topic": "What a UK business should know before signing a new electricity contract",
+  "tasks": [
+    {
+      "id": "T1",
+      "question": "What types of business electricity contracts are available in the UK (fixed, variable, deemed, out-of-contract, flexible/pass-through, and the role of brokers/third-party intermediaries), and what are the main advantages, risks and typical use cases of each?",
+      "evidence_required": "Official or regulator descriptions of contract types and what happens when a contract ends or no contract is in place, including deemed and out-of-contract rates, and how brokers/TPIs operate, including commission and how it is disclosed.",
+      "min_sources": 2,
+      "preferred_source_types": [
+        "Ofgem business pages",
+        "Citizens Advice business guidance",
+        "Energy Ombudsman",
+        "Government (GOV.UK) guidance"
+      ],
+      "addresses": null
+    },
+    {
+      "id": "T2",
+      "question": "What are the components of a UK business electricity bill and price (unit rate, standing charge, wholesale, network/distribution and transmission charges, policy and environmental levies, VAT and Climate Change Levy), and which are fixed versus passed through under a contract?",
+      "evidence_required": "Authoritative explanation of the cost breakdown of a non-domestic electricity bill, how non-commodity charges are handled in fixed versus pass-through contracts, and current rates or reliefs for CCL and VAT (e.g. reduced VAT rate or CCL exemptions where applicable), with dates.",
+      "min_sources": 3,
+      "preferred_source_types": [
+        "Ofgem",
+        "GOV.UK / HMRC (CCL, VAT)",
+        "Industry bodies",
+        "Distribution network operators or National Grid ESO/NESO"
+      ],
+      "addresses": null
+    },
+    {
+      "id": "T3",
+      "question": "What consumer protections and regulatory rules apply to UK business electricity contracts, including contract terms (notice windows, auto-rollover, termination fees, deemed contract rules), Ofgem Standards of Conduct, the micro-business definition, supplier complaint handling, and redress routes?",
+      "evidence_required": "Official descriptions of rules for microbusinesses versus larger businesses, rules on renewal and notice periods, rules on transparent pricing and information in contracts, complaint escalation and the Energy Ombudsman's remit, and recent regulatory changes affecting business customers (e.g. Ofgem's broker/TPI rules and supplier requirements).",
+      "min_sources": 3,
+      "preferred_source_types": [
+        "Ofgem",
+        "Energy Ombudsman",
+        "Citizens Advice",
+        "GOV.UK"
+      ],
+      "addresses": null
+    },
+    {
+      "id": "T4",
+      "question": "What should a business check and prepare before signing: its current contract end date and notice period, meter type and consumption data (half-hourly versus non-half-hourly, MPAN), credit checks and security deposits, comparing quotes, supplier financial stability, and how to avoid unsuitable terms?",
+      "evidence_required": "Practical official or independent guidance listing pre-signing checks, how to find consumption and contract information, how to compare quotes like for like, supplier credit and deposit practices, and checks on supplier and broker reputability (e.g. accreditation or code of practice membership).",
+      "min_sources": 3,
+      "preferred_source_types": [
+        "Ofgem",
+        "Citizens Advice",
+        "Energy Ombudsman",
+        "Business support bodies (e.g. British Business Bank, FSB, Energy Saving Trust)",
+        "Broker code-of-practice bodies"
+      ],
+      "addresses": null
+    },
+    {
+      "id": "T5",
+      "question": "What other factors could affect value and risk over the contract term, including government support schemes or reliefs, energy efficiency and net-zero obligations (e.g. Energy Intensive Industries support, SECR, ESOS), renewable/green tariff claims (REGOs), and market volatility or flexibility options (e.g. fixing timing, purchasing strategy, smart meters)?",
+      "evidence_required": "Official information on schemes or obligations relevant to business electricity buyers, how green tariffs are substantiated (REGO or similar), smart meter rollout requirements for non-domestic sites, and authoritative commentary on wholesale price volatility and purchasing strategies. Include dates and applicability thresholds.",
+      "min_sources": 3,
+      "preferred_source_types": [
+        "GOV.UK / DESNZ",
+        "Ofgem (REGO, smart metering)",
+        "Environment Agency (ESOS)",
+        "Energy Saving Trust or Carbon Trust",
+        "Industry bodies"
+      ],
+      "addresses": null
+    }
+  ]
+}
