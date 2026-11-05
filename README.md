@@ -1,5 +1,5 @@
 ﻿# Researcher
-
+ 
 This is a small multi-agent research system. Give it a topic and three separate agents will plan the research, read real web pages in a browser and turn what they find into a referenced PDF report. The application also records each step in a JSONL execution trace.
 
 ```bash
