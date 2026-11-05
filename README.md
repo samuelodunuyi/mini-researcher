@@ -183,7 +183,7 @@ There are a few things the current implementation does not fully check yet:
 
 ## How this was built
 
-I developed the project plan from the Nationwide brief, defining what the system needed to achieve, how the three agents should work, and the architecture that would bring them together. I also set the implementation priorities and guardrails, including the responsibilities of each agent, how their sessions and information should be kept separate, the checks required to protect the quality of the output, and what was outside the scope of the project.
+I developed the project plan from the brief, defining what the system needed to achieve, how the three agents should work, and the architecture that would bring them together. I also set the implementation priorities and guardrails, including the responsibilities of each agent, how their sessions and information should be kept separate, the checks required to protect the quality of the output, and what was outside the scope of the project.
 
 I used **Claude Code (Anthropic)** to help manage and streamline the implementation. Working through the project in stages, I used it to assist with writing and refining the code, running tests, carrying out live executions and inspecting the results. I directed the work throughout, reviewed the implementation and test results, and made the decisions on what to keep, change or improve.
 
