@@ -78,10 +78,10 @@ You'll need Python 3.11 or newer, an Anthropic API key and a Tavily API key.
 
 ```bash
 python -m venv .venv
-.venv\Scripts\activate                 # macOS/Linux: source .venv/bin/activate
+source .venv/bin/activate              # Windows: .venv\Scripts\activate
 pip install -e ".[dev]"
 python -m playwright install chromium
-copy .env.example .env                 # macOS/Linux: cp .env.example .env
+cp .env.example .env                   # Windows: copy .env.example .env
 ```
 
 | Variable            | Required? | What it's for                                                                                                      |
